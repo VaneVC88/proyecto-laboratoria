@@ -1,0 +1,51 @@
+.casa{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+	left: 400px;
+	top: 400px;
+}
+.humo{
+	width: 30px;
+	height: 30px;
+	background-color: grey;
+	-moz-border-radius: 15px;
+	-webkit-border-radius:15px;
+	border-radius: 50px;
+	position: absolute;
+	bottom: 330px;
+	left: 160px;
+	
+}
+
+
+.chimenea{
+	width: 35px;
+	height: 80px;
+	background-color: black;
+	position: absolute;
+	bottom: 235px;
+	left: 140px;
+}
+
+.techo{
+	width: 0;
+	height: 0;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 145px solid brown;
+	position: absolute;
+	bottom: 100%;
+	left: 0;
+}
+
+.cuadrado{
+	width: 75px;
+	height: 85px;
+	background-color: red;
+	position: absolute;
+	bottom: 0;
+	left: 60px;
+}
+

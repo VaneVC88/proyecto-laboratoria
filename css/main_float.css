@@ -1,0 +1,21 @@
+.caja {
+	width: 250px;
+	height: 150px;
+	float: left;
+}
+
+.container{
+	margin: 8px;
+}
+
+.amarillo{
+	background-color: #FCF30C;
+}
+
+.azul{
+	background-color: #1E0AE8;
+}
+
+.rosado{
+	background-color: #F90E4C;
+}
